@@ -12,6 +12,7 @@ The purpose of this section is to practice writing more methods to use arrays.
 
 1. Two words are anagrams if they contain **the same letters** AND **the same number of each letter**. For example, "stop" is an anagram of "pots", "allen downey" is an anagram of "well annoyed", and "christopher mayfield" is an anagram of "hi prof the camel is dry".
     * Write a method that takes 2 strings and checks whether they are anagrams of each other.
+    * HINT: The lab's histogram method may be helpful.
 
 ## Submission
 Follow these steps for submission:
